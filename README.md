@@ -1,2 +1,4 @@
 # IISSI1
-iissi1 lab
+Excercises done during Introduction to Software Engineering and Information Systems Course
+
+
